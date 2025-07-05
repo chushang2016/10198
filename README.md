@@ -8,7 +8,7 @@
 # 项目资料获取方式
 * 需要资料或者有任何问题的加QQ：2684634017
 
-* 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=10198
+* 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=10198
 
 * 项目演示视频；https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/828%E5%A5%97ssm%E5%BD%95%E5%83%8F/10198_ssm041%E7%BB%BF%E8%89%B2%E5%86%9C%E4%BA%A7%E5%93%81%E6%8E%A8%E5%B9%BF%E5%BA%94%E7%94%A8%E7%BD%91%E7%AB%99%2Bvue%E5%BD%95%E5%83%8F.mp4
 
